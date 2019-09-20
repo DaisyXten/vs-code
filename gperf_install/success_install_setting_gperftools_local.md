@@ -3,5 +3,8 @@
 ```bash
 set(Gperftools_ROOT_DIR /home/danqing/gperf)
 ```
-
+In `.bashrc`:
 export PATH=$PATH:/home/danqing/gperf/bin
+export Gperftools_ROOT_DIR=/home/danqing/gperf
+export LD_LIBRARY_PATH=/home/danqing/Paddle/build/third_party/install/warpctc/lib:/home/danqing/gperf/lib
+export GPERFTOOLS_INCLUDE_DIR=/home/danqing/gperf/include
