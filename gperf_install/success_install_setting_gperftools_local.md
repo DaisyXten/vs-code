@@ -3,3 +3,5 @@
 ```bash
 set(Gperftools_ROOT_DIR /home/danqing/gperf)
 ```
+
+export PATH=$PATH:/home/danqing/gperf/bin
