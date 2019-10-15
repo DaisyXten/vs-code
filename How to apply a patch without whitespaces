@@ -1,0 +1,2 @@
+git diff -w 85e1f2150bd1c8dbe0bd6f33d4bbdf327cd328ff b28703850ad799d32b8c091cd213470fb29df71c >changes.patch
+git apply --ignore-space-change --ignore-whitespace mychanges.patch
