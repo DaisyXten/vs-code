@@ -1,0 +1,1 @@
+git apply --ignore-space-change --ignore-whitespace mychanges.patch
