@@ -1,0 +1,1 @@
+If you have a problem with connection to remote server from VS Code try to kill all VS Code processes with pgrep -f "vscode" | xargs kill command and add no_proxy=127.0.0.1 line to .wgetrc file in your home directory
