@@ -3,3 +3,4 @@
 2. Wear headmuffins. You have too sensitive hearing, just wear a headmuffin.
 3. You may just be hungry. If above two does not work, consider this and eat rice or noodles with meat and fish
 4. After food, do mediation.
+5. Sleep at 8 or 9 o'clock. Anyway fall asleep before 10pm. After that it will be second wave of energy, but energy for regenerating body. If this wave you did not fall aslepp, next wave will be after 6 o'clock.
